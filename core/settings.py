@@ -32,6 +32,7 @@ INSTALLED_APPS = [
 
     # local apps
     'apps.shared.apps.SharedConfig',
+    'apps.accounts.apps.AccountsConfig',
 ]
 
 MIDDLEWARE = [
@@ -135,3 +136,5 @@ STORAGES = {
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
+
+AUTH_USER_MODEL = 'accounts.User'
