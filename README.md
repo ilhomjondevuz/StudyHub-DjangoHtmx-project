@@ -1,17 +1,3 @@
-Ha. Oldingi README **project tavsifi sifatida yaxshi**, lekin real GitHub repository uchun `clone → .env → Docker → migration → superuser → static → Celery → test` jarayonlari to‘liqroq bo‘lishi kerak.
-
-Quyidagini **tayyor `README.md`** sifatida ishlatishing mumkin:
-
-# StudyHub
-
-> A multilingual online learning platform built with Django, HTMX, PostgreSQL, Redis, Celery, and Docker.
-
-StudyHub — o‘qituvchilar kurslar yaratib, darslarni joylashtiradigan, foydalanuvchilar esa kurslarni sotib olib, o‘qib, o‘z progressini kuzatadigan zamonaviy online ta’lim platformasi.
-
-Loyiha asosiy maqsadi — **real-world Django project development**, Django ORM, HTMX, PostgreSQL, Redis, Celery, Docker, testing va professional Git/GitHub workflow bilan ishlashni amalda o‘rganish.
-
----
-
 ## ✨ Features
 
 ### Authentication
