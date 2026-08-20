@@ -31,7 +31,7 @@ INSTALLED_APPS = [
     # packages
 
     # local apps
-
+    'apps.shared.apps.SharedConfig',
 ]
 
 MIDDLEWARE = [
